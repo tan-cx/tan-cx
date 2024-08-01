@@ -1,3 +1,5 @@
+#Practice
+只是练习创建
 - 👋 Hi, I’m Tan Chin Xian
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and improving my C, SQL language.
